@@ -1,0 +1,385 @@
+RAPORT ANALIZY HOTSPOTÓW - PANELE FOTOWOLTAICZNE
+============================================================
+
+Plik: FLIR0212.jpg
+Liczba hotspotów: 7
+  - Hotspot 1: centrum(16, 249), powierzchnia: 179px
+  - Hotspot 2: centrum(46, 197), powierzchnia: 114px
+  - Hotspot 3: centrum(65, 170), powierzchnia: 92px
+  - Hotspot 4: centrum(248, 108), powierzchnia: 109px
+  - Hotspot 5: centrum(31, 95), powierzchnia: 190px
+  - Hotspot 6: centrum(248, 83), powierzchnia: 67px
+  - Hotspot 7: centrum(226, 21), powierzchnia: 208px
+
+Plik: FLIR0214.jpg
+Liczba hotspotów: 3
+  - Hotspot 1: centrum(109, 217), powierzchnia: 3218px
+  - Hotspot 2: centrum(145, 141), powierzchnia: 64px
+  - Hotspot 3: centrum(226, 21), powierzchnia: 228px
+
+Plik: FLIR0220.jpg
+Liczba hotspotów: 11
+  - Hotspot 1: centrum(17, 237), powierzchnia: 60px
+  - Hotspot 2: centrum(191, 212), powierzchnia: 1010px
+  - Hotspot 3: centrum(98, 198), powierzchnia: 932px
+  - Hotspot 4: centrum(94, 168), powierzchnia: 53px
+  - Hotspot 5: centrum(71, 190), powierzchnia: 1428px
+  - Hotspot 6: centrum(40, 182), powierzchnia: 1536px
+  - Hotspot 7: centrum(68, 86), powierzchnia: 990px
+  - Hotspot 8: centrum(41, 61), powierzchnia: 66px
+  - Hotspot 9: centrum(237, 21), powierzchnia: 88px
+  - Hotspot 10: centrum(218, 24), powierzchnia: 152px
+  - Hotspot 11: centrum(67, 11), powierzchnia: 343px
+
+Plik: FLIR0222.jpg
+Liczba hotspotów: 11
+  - Hotspot 1: centrum(12, 246), powierzchnia: 180px
+  - Hotspot 2: centrum(183, 219), powierzchnia: 142px
+  - Hotspot 3: centrum(67, 179), powierzchnia: 331px
+  - Hotspot 4: centrum(67, 133), powierzchnia: 396px
+  - Hotspot 5: centrum(20, 130), powierzchnia: 54px
+  - Hotspot 6: centrum(125, 93), powierzchnia: 109px
+  - Hotspot 7: centrum(68, 71), powierzchnia: 1638px
+  - Hotspot 8: centrum(125, 41), powierzchnia: 140px
+  - Hotspot 9: centrum(232, 16), powierzchnia: 84px
+  - Hotspot 10: centrum(199, 30), powierzchnia: 480px
+  - Hotspot 11: centrum(163, 7), powierzchnia: 99px
+
+Plik: FLIR0224.jpg
+Liczba hotspotów: 5
+  - Hotspot 1: centrum(139, 220), powierzchnia: 60px
+  - Hotspot 2: centrum(97, 227), powierzchnia: 1442px
+  - Hotspot 3: centrum(142, 183), powierzchnia: 109px
+  - Hotspot 4: centrum(232, 16), powierzchnia: 84px
+  - Hotspot 5: centrum(198, 16), powierzchnia: 67px
+
+Plik: FLIR0226.jpg
+Liczba hotspotów: 10
+  - Hotspot 1: centrum(102, 249), powierzchnia: 59px
+  - Hotspot 2: centrum(20, 217), powierzchnia: 196px
+  - Hotspot 3: centrum(41, 218), powierzchnia: 176px
+  - Hotspot 4: centrum(226, 223), powierzchnia: 1194px
+  - Hotspot 5: centrum(237, 172), powierzchnia: 206px
+  - Hotspot 6: centrum(9, 92), powierzchnia: 53px
+  - Hotspot 7: centrum(33, 140), powierzchnia: 1426px
+  - Hotspot 8: centrum(17, 72), powierzchnia: 60px
+  - Hotspot 9: centrum(226, 21), powierzchnia: 254px
+  - Hotspot 10: centrum(249, 15), powierzchnia: 122px
+
+Plik: FLIR0228.jpg
+Liczba hotspotów: 7
+  - Hotspot 1: centrum(151, 249), powierzchnia: 72px
+  - Hotspot 2: centrum(62, 247), powierzchnia: 50px
+  - Hotspot 3: centrum(24, 244), powierzchnia: 321px
+  - Hotspot 4: centrum(208, 237), powierzchnia: 2475px
+  - Hotspot 5: centrum(251, 60), powierzchnia: 56px
+  - Hotspot 6: centrum(178, 27), powierzchnia: 135px
+  - Hotspot 7: centrum(218, 24), powierzchnia: 668px
+
+Plik: FLIR0234.jpg
+Liczba hotspotów: 13
+  - Hotspot 1: centrum(75, 183), powierzchnia: 57px
+  - Hotspot 2: centrum(173, 182), powierzchnia: 1930px
+  - Hotspot 3: centrum(128, 148), powierzchnia: 56px
+  - Hotspot 4: centrum(94, 161), powierzchnia: 514px
+  - Hotspot 5: centrum(176, 143), powierzchnia: 56px
+  - Hotspot 6: centrum(82, 141), powierzchnia: 84px
+  - Hotspot 7: centrum(182, 113), powierzchnia: 100px
+  - Hotspot 8: centrum(9, 93), powierzchnia: 57px
+  - Hotspot 9: centrum(108, 61), powierzchnia: 75px
+  - Hotspot 10: centrum(220, 89), powierzchnia: 1732px
+  - Hotspot 11: centrum(144, 81), powierzchnia: 1705px
+  - Hotspot 12: centrum(208, 23), powierzchnia: 580px
+  - Hotspot 13: centrum(245, 12), powierzchnia: 115px
+
+Plik: FLIR0235.jpg
+Liczba hotspotów: 5
+  - Hotspot 1: centrum(176, 211), powierzchnia: 234px
+  - Hotspot 2: centrum(168, 183), powierzchnia: 84px
+  - Hotspot 3: centrum(148, 127), powierzchnia: 772px
+  - Hotspot 4: centrum(172, 99), powierzchnia: 447px
+  - Hotspot 5: centrum(18, 20), powierzchnia: 77px
+
+Plik: FLIR0238.jpg
+Liczba hotspotów: 4
+  - Hotspot 1: centrum(144, 120), powierzchnia: 262px
+  - Hotspot 2: centrum(16, 72), powierzchnia: 73px
+  - Hotspot 3: centrum(32, 22), powierzchnia: 52px
+  - Hotspot 4: centrum(226, 21), powierzchnia: 262px
+
+Plik: FLIR0242.jpg
+Liczba hotspotów: 4
+  - Hotspot 1: centrum(8, 232), powierzchnia: 62px
+  - Hotspot 2: centrum(107, 89), powierzchnia: 68px
+  - Hotspot 3: centrum(93, 44), powierzchnia: 168px
+  - Hotspot 4: centrum(227, 25), powierzchnia: 313px
+
+Plik: FLIR0244.jpg
+Liczba hotspotów: 2
+  - Hotspot 1: centrum(16, 72), powierzchnia: 72px
+  - Hotspot 2: centrum(226, 21), powierzchnia: 214px
+
+Plik: FLIR0248.jpg
+Liczba hotspotów: 1
+  - Hotspot 1: centrum(50, 106), powierzchnia: 942px
+
+Plik: FLIR0250.jpg
+Liczba hotspotów: 5
+  - Hotspot 1: centrum(57, 155), powierzchnia: 1840px
+  - Hotspot 2: centrum(138, 145), powierzchnia: 3078px
+  - Hotspot 3: centrum(205, 120), powierzchnia: 2926px
+  - Hotspot 4: centrum(146, 94), powierzchnia: 2006px
+  - Hotspot 5: centrum(226, 21), powierzchnia: 217px
+
+Plik: FLIR0252.jpg
+Liczba hotspotów: 3
+  - Hotspot 1: centrum(193, 237), powierzchnia: 116px
+  - Hotspot 2: centrum(16, 72), powierzchnia: 63px
+  - Hotspot 3: centrum(226, 21), powierzchnia: 268px
+
+Plik: FLIR0254.jpg
+Liczba hotspotów: 5
+  - Hotspot 1: centrum(186, 231), powierzchnia: 98px
+  - Hotspot 2: centrum(215, 141), powierzchnia: 325px
+  - Hotspot 3: centrum(9, 92), powierzchnia: 53px
+  - Hotspot 4: centrum(16, 72), powierzchnia: 52px
+  - Hotspot 5: centrum(226, 21), powierzchnia: 220px
+
+Plik: FLIR0256.jpg
+Liczba hotspotów: 2
+  - Hotspot 1: centrum(176, 154), powierzchnia: 538px
+  - Hotspot 2: centrum(226, 21), powierzchnia: 242px
+
+Plik: FLIR0258.jpg
+Liczba hotspotów: 4
+  - Hotspot 1: centrum(163, 194), powierzchnia: 82px
+  - Hotspot 2: centrum(182, 165), powierzchnia: 544px
+  - Hotspot 3: centrum(169, 157), powierzchnia: 2924px
+  - Hotspot 4: centrum(226, 21), powierzchnia: 204px
+
+Plik: FLIR0260.jpg
+Liczba hotspotów: 3
+  - Hotspot 1: centrum(160, 136), powierzchnia: 438px
+  - Hotspot 2: centrum(10, 93), powierzchnia: 68px
+  - Hotspot 3: centrum(226, 21), powierzchnia: 217px
+
+Plik: FLIR0262.jpg
+Liczba hotspotów: 2
+  - Hotspot 1: centrum(106, 162), powierzchnia: 710px
+  - Hotspot 2: centrum(226, 21), powierzchnia: 206px
+
+Plik: FLIR0264.jpg
+Liczba hotspotów: 6
+  - Hotspot 1: centrum(37, 179), powierzchnia: 60px
+  - Hotspot 2: centrum(49, 194), powierzchnia: 1200px
+  - Hotspot 3: centrum(60, 153), powierzchnia: 336px
+  - Hotspot 4: centrum(53, 146), powierzchnia: 499px
+  - Hotspot 5: centrum(9, 75), powierzchnia: 85px
+  - Hotspot 6: centrum(226, 21), powierzchnia: 214px
+
+Plik: FLIR0268.jpg
+Liczba hotspotów: 3
+  - Hotspot 1: centrum(18, 148), powierzchnia: 214px
+  - Hotspot 2: centrum(71, 126), powierzchnia: 94px
+  - Hotspot 3: centrum(226, 21), powierzchnia: 221px
+
+Plik: FLIR0270.jpg
+Liczba hotspotów: 3
+  - Hotspot 1: centrum(216, 187), powierzchnia: 764px
+  - Hotspot 2: centrum(208, 126), powierzchnia: 3600px
+  - Hotspot 3: centrum(226, 21), powierzchnia: 213px
+
+Plik: FLIR0272.jpg
+Liczba hotspotów: 16
+  - Hotspot 1: centrum(38, 162), powierzchnia: 356px
+  - Hotspot 2: centrum(28, 157), powierzchnia: 234px
+  - Hotspot 3: centrum(150, 143), powierzchnia: 830px
+  - Hotspot 4: centrum(52, 133), powierzchnia: 213px
+  - Hotspot 5: centrum(26, 132), powierzchnia: 296px
+  - Hotspot 6: centrum(5, 131), powierzchnia: 61px
+  - Hotspot 7: centrum(85, 140), powierzchnia: 1116px
+  - Hotspot 8: centrum(56, 107), powierzchnia: 311px
+  - Hotspot 9: centrum(26, 106), powierzchnia: 321px
+  - Hotspot 10: centrum(4, 104), powierzchnia: 70px
+  - Hotspot 11: centrum(220, 124), powierzchnia: 2466px
+  - Hotspot 12: centrum(29, 81), powierzchnia: 243px
+  - Hotspot 13: centrum(161, 62), powierzchnia: 499px
+  - Hotspot 14: centrum(37, 57), powierzchnia: 56px
+  - Hotspot 15: centrum(65, 58), powierzchnia: 402px
+  - Hotspot 16: centrum(226, 21), powierzchnia: 209px
+
+Plik: FLIR0274.jpg
+Liczba hotspotów: 3
+  - Hotspot 1: centrum(118, 160), powierzchnia: 431px
+  - Hotspot 2: centrum(145, 152), powierzchnia: 356px
+  - Hotspot 3: centrum(226, 21), powierzchnia: 213px
+
+Plik: FLIR0276.jpg
+Liczba hotspotów: 4
+  - Hotspot 1: centrum(190, 182), powierzchnia: 4574px
+  - Hotspot 2: centrum(38, 157), powierzchnia: 2002px
+  - Hotspot 3: centrum(162, 111), powierzchnia: 104px
+  - Hotspot 4: centrum(226, 18), powierzchnia: 346px
+
+Plik: FLIR0280.jpg
+Liczba hotspotów: 3
+  - Hotspot 1: centrum(206, 220), powierzchnia: 543px
+  - Hotspot 2: centrum(186, 116), powierzchnia: 1857px
+  - Hotspot 3: centrum(204, 60), powierzchnia: 56px
+
+Plik: FLIR0284.jpg
+Liczba hotspotów: 7
+  - Hotspot 1: centrum(177, 163), powierzchnia: 626px
+  - Hotspot 2: centrum(57, 150), powierzchnia: 146px
+  - Hotspot 3: centrum(169, 169), powierzchnia: 1860px
+  - Hotspot 4: centrum(16, 50), powierzchnia: 68px
+  - Hotspot 5: centrum(56, 22), powierzchnia: 58px
+  - Hotspot 6: centrum(38, 22), powierzchnia: 63px
+  - Hotspot 7: centrum(226, 21), powierzchnia: 322px
+
+Plik: FLIR0286.jpg
+Liczba hotspotów: 3
+  - Hotspot 1: centrum(195, 160), powierzchnia: 2697px
+  - Hotspot 2: centrum(174, 60), powierzchnia: 82px
+  - Hotspot 3: centrum(226, 28), powierzchnia: 334px
+
+Plik: FLIR0288.jpg
+Liczba hotspotów: 3
+  - Hotspot 1: centrum(20, 165), powierzchnia: 430px
+  - Hotspot 2: centrum(21, 83), powierzchnia: 228px
+  - Hotspot 3: centrum(226, 21), powierzchnia: 224px
+
+Plik: FLIR0290.jpg
+Liczba hotspotów: 8
+  - Hotspot 1: centrum(203, 140), powierzchnia: 180px
+  - Hotspot 2: centrum(20, 165), powierzchnia: 372px
+  - Hotspot 3: centrum(161, 126), powierzchnia: 1722px
+  - Hotspot 4: centrum(24, 76), powierzchnia: 227px
+  - Hotspot 5: centrum(24, 50), powierzchnia: 64px
+  - Hotspot 6: centrum(178, 47), powierzchnia: 54px
+  - Hotspot 7: centrum(46, 22), powierzchnia: 72px
+  - Hotspot 8: centrum(226, 21), powierzchnia: 256px
+
+Plik: FLIR0294.jpg
+Liczba hotspotów: 5
+  - Hotspot 1: centrum(121, 193), powierzchnia: 379px
+  - Hotspot 2: centrum(130, 190), powierzchnia: 1362px
+  - Hotspot 3: centrum(191, 125), powierzchnia: 2109px
+  - Hotspot 4: centrum(48, 22), powierzchnia: 52px
+  - Hotspot 5: centrum(226, 21), powierzchnia: 252px
+
+Plik: FLIR0296.jpg
+Liczba hotspotów: 5
+  - Hotspot 1: centrum(73, 158), powierzchnia: 800px
+  - Hotspot 2: centrum(32, 76), powierzchnia: 226px
+  - Hotspot 3: centrum(16, 50), powierzchnia: 68px
+  - Hotspot 4: centrum(158, 80), powierzchnia: 4992px
+  - Hotspot 5: centrum(175, 6), powierzchnia: 300px
+
+Plik: FLIR0300.jpg
+Liczba hotspotów: 12
+  - Hotspot 1: centrum(210, 247), powierzchnia: 532px
+  - Hotspot 2: centrum(89, 210), powierzchnia: 214px
+  - Hotspot 3: centrum(88, 190), powierzchnia: 52px
+  - Hotspot 4: centrum(26, 201), powierzchnia: 473px
+  - Hotspot 5: centrum(30, 183), powierzchnia: 90px
+  - Hotspot 6: centrum(231, 146), powierzchnia: 60px
+  - Hotspot 7: centrum(163, 146), powierzchnia: 192px
+  - Hotspot 8: centrum(163, 126), powierzchnia: 369px
+  - Hotspot 9: centrum(230, 121), powierzchnia: 122px
+  - Hotspot 10: centrum(19, 118), powierzchnia: 56px
+  - Hotspot 11: centrum(222, 177), powierzchnia: 933px
+  - Hotspot 12: centrum(213, 58), powierzchnia: 1786px
+
+Plik: FLIR0302.jpg
+Liczba hotspotów: 7
+  - Hotspot 1: centrum(238, 204), powierzchnia: 2174px
+  - Hotspot 2: centrum(33, 144), powierzchnia: 742px
+  - Hotspot 3: centrum(51, 83), powierzchnia: 124px
+  - Hotspot 4: centrum(151, 62), powierzchnia: 676px
+  - Hotspot 5: centrum(97, 90), powierzchnia: 4130px
+  - Hotspot 6: centrum(212, 96), powierzchnia: 3576px
+  - Hotspot 7: centrum(237, 21), powierzchnia: 88px
+
+Plik: FLIR0304.jpg
+Liczba hotspotów: 16
+  - Hotspot 1: centrum(224, 242), powierzchnia: 1188px
+  - Hotspot 2: centrum(162, 238), powierzchnia: 914px
+  - Hotspot 3: centrum(54, 196), powierzchnia: 1003px
+  - Hotspot 4: centrum(153, 139), powierzchnia: 82px
+  - Hotspot 5: centrum(103, 150), powierzchnia: 1496px
+  - Hotspot 6: centrum(199, 142), powierzchnia: 209px
+  - Hotspot 7: centrum(121, 109), powierzchnia: 739px
+  - Hotspot 8: centrum(47, 109), powierzchnia: 680px
+  - Hotspot 9: centrum(9, 70), powierzchnia: 81px
+  - Hotspot 10: centrum(154, 70), powierzchnia: 534px
+  - Hotspot 11: centrum(62, 70), powierzchnia: 1252px
+  - Hotspot 12: centrum(187, 40), powierzchnia: 224px
+  - Hotspot 13: centrum(118, 38), powierzchnia: 70px
+  - Hotspot 14: centrum(230, 37), powierzchnia: 634px
+  - Hotspot 15: centrum(84, 33), powierzchnia: 472px
+  - Hotspot 16: centrum(226, 21), powierzchnia: 262px
+
+Plik: FLIR0306.jpg
+Liczba hotspotów: 14
+  - Hotspot 1: centrum(52, 224), powierzchnia: 56px
+  - Hotspot 2: centrum(165, 220), powierzchnia: 810px
+  - Hotspot 3: centrum(29, 199), powierzchnia: 188px
+  - Hotspot 4: centrum(94, 195), powierzchnia: 136px
+  - Hotspot 5: centrum(66, 188), powierzchnia: 716px
+  - Hotspot 6: centrum(127, 146), powierzchnia: 593px
+  - Hotspot 7: centrum(91, 147), powierzchnia: 738px
+  - Hotspot 8: centrum(166, 135), powierzchnia: 90px
+  - Hotspot 9: centrum(111, 105), powierzchnia: 840px
+  - Hotspot 10: centrum(59, 105), powierzchnia: 588px
+  - Hotspot 11: centrum(32, 75), powierzchnia: 62px
+  - Hotspot 12: centrum(159, 65), powierzchnia: 321px
+  - Hotspot 13: centrum(87, 62), powierzchnia: 214px
+  - Hotspot 14: centrum(59, 66), powierzchnia: 746px
+
+Plik: FLIR0308.jpg
+Liczba hotspotów: 16
+  - Hotspot 1: centrum(103, 215), powierzchnia: 59px
+  - Hotspot 2: centrum(26, 223), powierzchnia: 676px
+  - Hotspot 3: centrum(174, 188), powierzchnia: 52px
+  - Hotspot 4: centrum(132, 180), powierzchnia: 1098px
+  - Hotspot 5: centrum(70, 162), powierzchnia: 98px
+  - Hotspot 6: centrum(220, 169), powierzchnia: 1783px
+  - Hotspot 7: centrum(73, 127), powierzchnia: 108px
+  - Hotspot 8: centrum(170, 121), powierzchnia: 351px
+  - Hotspot 9: centrum(193, 93), powierzchnia: 79px
+  - Hotspot 10: centrum(59, 121), powierzchnia: 3302px
+  - Hotspot 11: centrum(148, 77), powierzchnia: 1758px
+  - Hotspot 12: centrum(95, 35), powierzchnia: 152px
+  - Hotspot 13: centrum(78, 31), powierzchnia: 227px
+  - Hotspot 14: centrum(232, 30), powierzchnia: 668px
+  - Hotspot 15: centrum(160, 10), powierzchnia: 113px
+  - Hotspot 16: centrum(56, 4), powierzchnia: 92px
+
+Plik: FLIR0310.jpg
+Liczba hotspotów: 1
+  - Hotspot 1: centrum(143, 205), powierzchnia: 4032px
+
+Plik: FLIR0311.jpg
+Liczba hotspotów: 7
+  - Hotspot 1: centrum(192, 215), powierzchnia: 168px
+  - Hotspot 2: centrum(60, 194), powierzchnia: 82px
+  - Hotspot 3: centrum(249, 177), powierzchnia: 93px
+  - Hotspot 4: centrum(40, 181), powierzchnia: 344px
+  - Hotspot 5: centrum(131, 116), powierzchnia: 622px
+  - Hotspot 6: centrum(11, 73), powierzchnia: 138px
+  - Hotspot 7: centrum(145, 7), powierzchnia: 52px
+
+Plik: FLIR0312.jpg
+Liczba hotspotów: 7
+  - Hotspot 1: centrum(69, 229), powierzchnia: 108px
+  - Hotspot 2: centrum(199, 211), powierzchnia: 182px
+  - Hotspot 3: centrum(230, 202), powierzchnia: 1396px
+  - Hotspot 4: centrum(142, 201), powierzchnia: 3866px
+  - Hotspot 5: centrum(67, 160), powierzchnia: 382px
+  - Hotspot 6: centrum(62, 118), powierzchnia: 74px
+  - Hotspot 7: centrum(223, 15), powierzchnia: 734px
+
+PODSUMOWANIE:
+Całkowita liczba hotspotów: 256
+Średnia na obraz: 6.24
